@@ -656,11 +656,11 @@ input{
 }
 
 /*         plans-block          */
-
-.block-plans .grid{
-    grid: 8rem , 4rem;
+.block-plans .grid {
+    gap: 8rem 4rem;
 }
-.block-plans .card{
+  
+.block-plans .card {
     max-width: 500px;
     margin: 0 auto;
 }
